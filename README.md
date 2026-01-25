@@ -1,5 +1,3 @@
-Here is a structured, professional README.md for Johns Linux.
-
 This version strikes a balance: it is professional and technically descriptive (standard for open-source projects) but retains a clear, motivating vision without sounding like a casual blog post.
 
 Johns Linux
