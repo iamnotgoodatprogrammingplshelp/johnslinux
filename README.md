@@ -1,6 +1,6 @@
 # johnslinux
 
-A small, human-friendly collection of files to build and run a minimal Linux environment for John's setup. This repository can be used in two common ways: with the included Dockerfile (recommended for quick testing and reproducible environments) or on a native Ubuntu system. RISC-V-specific installation steps are not included here — see the RISC-V section below.
+This repository can be used in two common ways: with the included Dockerfile (recommended for quick testing and reproducible environments) or on a native Ubuntu system. RISC-V-specific installation steps are not included here — see the RISC-V section below.
 
 ## What this repository is
 This repo contains the configuration, scripts, and a Dockerfile to assemble a lightweight Linux environment. It's intended to be easy to run locally for development or testing.
