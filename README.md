@@ -63,7 +63,7 @@ If you want, I can add a clear RISC-V guide tailored to your target (QEMU vs har
 
 ## Need help?
 If you'd like, I can:
-- Draft a complete RISC-V installation section (specify whether you want QEMU or actual hardware).
+- Draft a complete RISC-V installation section (specify whether you want QEMU or actual hardware)
 - Produce an `install.sh` that mirrors the Dockerfile.
 - Make the Dockerfile steps more explicit in the README (copy the key commands).
 
