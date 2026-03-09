@@ -67,4 +67,3 @@ If you'd like, I can:
 - Produce an `install.sh` that mirrors the Dockerfile.
 - Make the Dockerfile steps more explicit in the README (copy the key commands).
 
-Tell me which of those you'd like and any details about your target RISC-V environment (QEMU vs real hardware, distro/version) and I'll add the exact commands.
