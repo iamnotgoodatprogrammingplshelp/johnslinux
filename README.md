@@ -55,8 +55,3 @@ I noticed you mentioned RISC-V installation but forgot the process. This reposit
 - Cross-compile toolchains for RISC-V
 
 If you want, I can add a clear RISC-V guide tailored to your target (QEMU vs hardware) and your preferred distribution (Ubuntu, Fedora, etc.). I can also add helper scripts (for example, to install a RISC-V toolchain, set up QEMU with an image, or create a chroot/VM).
-
-## What you might add next
-- A step-by-step RISC-V section (QEMU + rootfs or native device instructions).
-- An `install.sh` or `setup.sh` that reproduces the Dockerfile steps on Ubuntu.
-- A short list of the key packages installed by the Dockerfile so users know what to install on native hosts.
