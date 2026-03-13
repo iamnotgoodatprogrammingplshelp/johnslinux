@@ -54,4 +54,4 @@ I noticed you mentioned RISC-V installation but forgot the process. This reposit
 - Install and boot a native RISC-V board, or
 - Cross-compile toolchains for RISC-V
 
-If you want, I can add a clear RISC-V guide tailored to your target (QEMU vs hardware) and your preferred distribution (Ubuntu, Fedora, etc.). I can also add helper scripts (for example, to install a RISC-V toolchain, set up QEMU with an image, or create a chroot/VM).
+
