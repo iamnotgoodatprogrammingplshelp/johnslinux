@@ -16,7 +16,7 @@ If you have Docker installed, this is the fastest way to get started:
 
 2. Build the Docker image (from the repository root):
    ```
-   docker build -t johnslinux .
+   docker build -t johnslinux 
    ```
 
 3. Run a container interactively:
