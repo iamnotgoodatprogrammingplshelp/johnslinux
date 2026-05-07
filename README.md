@@ -48,7 +48,7 @@ To run this on an Ubuntu host, make sure you have the basics installed (git, cur
    If no install script exists, open the Dockerfile and follow its RUN steps manually on your Ubuntu system to reproduce the environment.
 
 ## RISC-V
-I noticed you mentioned RISC-V installation but forgot the process. This repository does not currently include step-by-step RISC-V setup instructions. RISC-V instructions vary depending on whether you want to:
+I noticed you mentioned RISC-V installation but forgot the process This repository does not currently include step-by-step RISC-V setup instructions. RISC-V instructions vary depending on whether you want to:
 
 - Run a RISC-V userland in QEMU on an x86/AMD64 host, or
 - Install and boot a native RISC-V board, or
